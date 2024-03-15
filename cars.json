@@ -11,7 +11,7 @@
       "offerType": 1,
       "name": "BMW"
   },
-  "items": [{
+{
       "doors": 2,
       "city": "Stutgart",
       "id": 2,
@@ -23,7 +23,7 @@
       "offerType": 1,
       "name": "BMW"
   },
-"items": [{
+{
       "doors": 2,
       "city": "Wolfsburg",
       "id": 3,
@@ -35,7 +35,8 @@
       "offerType": 1,
       "name": "Volkswagen"
   },
-"items": [{
+
+{
       "doors": 2,
       "city": "Stutgart",
       "id": 4,
@@ -47,5 +48,6 @@
       "offerType": 1,
       "name": "Porsche"
   }],
+
   "totalCount": 4
 }
