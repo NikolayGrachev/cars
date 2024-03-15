@@ -1,0 +1,51 @@
+{
+  "items": [{
+      "doors": 4,
+      "city": "Munich",
+      "id": 1,
+      "horsepower": 250.0,
+      "url": "https://images.freeimages.com/images/large-previews/186/red-car-1418847.jpg?fmt=webp&h=350",
+      "price": 55000.0,
+      "professional": "",
+      "carType": "Oldtimer",
+      "offerType": 1,
+      "name": "BMW"
+  },
+  "items": [{
+      "doors": 2,
+      "city": "Stutgart",
+      "id": 2,
+      "horsepower": 550.0,
+      "url": "https://images.freeimages.com/images/large-previews/895/cars-1450686.jpg?fmt=webp&h=350",
+      "price": 145000.0,
+      "professional": "",
+      "carType": "Sportcar",
+      "offerType": 1,
+      "name": "BMW"
+  },
+"items": [{
+      "doors": 2,
+      "city": "Wolfsburg",
+      "id": 3,
+      "horsepower": 50.0,
+      "url": "https://images.freeimages.com/images/large-previews/4fa/two-tone-beetle-1447664.jpg?fmt=webp&h=350",
+      "price": 15000.0,
+      "professional": "",
+      "carType": "Oldtimer",
+      "offerType": 1,
+      "name": "Volkswagen"
+  },
+"items": [{
+      "doors": 2,
+      "city": "Stutgart",
+      "id": 4,
+      "horsepower": 350.0,
+      "url": "https://images.freeimages.com/images/large-previews/655/porsche-1952-1525048.jpg?fmt=webp&h=350",
+      "price": 150000.0,
+      "professional": "",
+      "carType": "Oldtimer",
+      "offerType": 1,
+      "name": "Porsche"
+  }],
+  "totalCount": 4
+}

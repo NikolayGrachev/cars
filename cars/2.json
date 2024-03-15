@@ -1,0 +1,12 @@
+{
+      "doors": 2,
+      "city": "Stutgart",
+      "id": 2,
+      "horsepower": 550.0,
+      "url": "https://images.freeimages.com/images/large-previews/895/cars-1450686.jpg?fmt=webp&h=350",
+      "price": 145000.0,
+      "professional": "",
+      "carType": "Sportcar",
+      "offerType": 1,
+      "name": "BMW"
+  }

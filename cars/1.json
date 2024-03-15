@@ -1,0 +1,12 @@
+{
+      "doors": 4,
+      "city": "Munich",
+      "id": 1,
+      "horsepower": 250.0,
+      "url": "https://images.freeimages.com/images/large-previews/186/red-car-1418847.jpg?fmt=webp&h=350",
+      "price": 55000.0,
+      "professional": "",
+      "carType": "Oldtimer",
+      "offerType": 1,
+      "name": "BMW"
+  }

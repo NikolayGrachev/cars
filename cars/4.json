@@ -1,0 +1,12 @@
+{
+      "doors": 2,
+      "city": "Stutgart",
+      "id": 4,
+      "horsepower": 350.0,
+      "url": "https://images.freeimages.com/images/large-previews/655/porsche-1952-1525048.jpg?fmt=webp&h=350",
+      "price": 150000.0,
+      "professional": "",
+      "carType": "Oldtimer",
+      "offerType": 1,
+      "name": "Porsche"
+  }

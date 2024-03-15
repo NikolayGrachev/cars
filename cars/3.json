@@ -1,0 +1,12 @@
+{
+      "doors": 2,
+      "city": "Wolfsburg",
+      "id": 3,
+      "horsepower": 50.0,
+      "url": "https://images.freeimages.com/images/large-previews/4fa/two-tone-beetle-1447664.jpg?fmt=webp&h=350",
+      "price": 15000.0,
+      "professional": "",
+      "carType": "Oldtimer",
+      "offerType": 1,
+      "name": "Volkswagen"
+  }
